@@ -1,2 +1,0 @@
-AuthorizationTest.java
- AuthorizationTest
